@@ -1,8 +1,4 @@
 ### hello there! 🍃
-
-I'm Aditya, a junior at UMass Amherst pursuing a BS in Computer Science with a Biology minor. 
-
-I like to dabble in a little bit of everything, but in the future I'd like to be working on projects at the intersection of biology, tech, and imaging. 🌱
 <!--
 **adityanaithani/adityanaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
