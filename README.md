@@ -1,4 +1,15 @@
-### hello there! 🍃
+### hello there, i'm adi! 🍃
+i'm a recent grad from umass amherst, where i studied cs and biology
+
+tech stuff:
+- currently writing code for leafpoint
+- learning about biotech
+
+hobbies:
+- running
+- photography
+- building pcs and keyboards (i wish this one wasn't true honestly)
+- the colour green 💚
 <!--
 **adityanaithani/adityanaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
